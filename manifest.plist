@@ -16,18 +16,14 @@
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</key>
-					<string></string>
+					<key>url</key>
+					<string>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</key>
-					<string></string>
+					<key>url</key>
+					<string>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
