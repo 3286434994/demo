@@ -18,7 +18,7 @@
 					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<false/>
-					<key>url</key>
+					<key>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</key>
 					<string></string>
 				</dict>
 				<dict>
@@ -26,7 +26,7 @@
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<false/>
-					<key>url</key>
+					<key>http://source.woocp.com/ios/e6ef083f51994bd3bb0862f6345d0324.png</key>
 					<string></string>
 				</dict>
 			</array>
